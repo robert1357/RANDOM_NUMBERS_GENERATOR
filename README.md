@@ -11,7 +11,7 @@ miRandomLib provides a simple yet powerful set of functions for generating rando
 ```r
 # Install from GitHub
 # install.packages("devtools")
-devtools::install_github("your-username/miRandomLib")
+devtools::install_github("robert1357/RANDOM_NUMBERS_GENERATOR")
 
 # Or install from local directory
 # devtools::install("path/to/miRandomLib")
